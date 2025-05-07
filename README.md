@@ -90,6 +90,8 @@ echo "LANGCHAIN_API_KEY=lsv2-..." >> .env
 
 bash
 
-git clone https://github.com/hananAlnabhani1/AI-Based-Meeting-Analyzer.git
+git clone https://github.com/hananAlnabhani1/AI-Based-Meeting-Analyzer2.git
 # 3. Run the app
 python app.py
+
+[ google  drive link](https://drive.google.com/drive/folders/1PcVDIi8FJ9tkfQ8K36_WnjDMWm4QKcu3?usp=drive_link)
